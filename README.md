@@ -39,6 +39,6 @@ To compile and run this calculator, you need a standard C++ compiler (like GCC o
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Compile the source code using the command: 
-   `g++ main.cpp -o calculator -Wall -Wextra`
+   `g++ ONP_calculator.cpp -o calculator -Wall -Wextra`
 4. Run the application and provide the input via standard input (or pipe a file): 
    `./calculator < input.txt`
